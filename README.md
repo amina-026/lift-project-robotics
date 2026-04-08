@@ -1,5 +1,5 @@
 # lift-project-robotics
- Arduino Elevator System
+ Arduino Elevator System | Baku Engineering University | Bootscamp 9.0
 
 A simple elevator automation system built using Arduino and C++.
 
